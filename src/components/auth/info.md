@@ -1,1 +1,0 @@
-Composants d'authentification

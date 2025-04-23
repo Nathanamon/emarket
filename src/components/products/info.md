@@ -1,1 +1,0 @@
-Composants liés aux produits

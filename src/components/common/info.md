@@ -1,1 +1,0 @@
-Composants globaux réutilisables
